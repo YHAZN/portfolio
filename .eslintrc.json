@@ -1,13 +1,13 @@
 {
     "root": true,
-    "extends": "next",
-    "rules": {
-        "no-usused-vars": [
-            "error",
-            {
-                "argsIgnorePattern": "^_",
-                "varsIgnorePattern": "^_"
-            }
-        ]
-    }
+    "extends": "next"//,
+    // "rules": {
+    //     "no-unused-vars": [
+    //         "error",
+    //         {
+    //             "argsIgnorePattern": "^_",
+    //             "varsIgnorePattern": "^_"
+    //         }
+    //     ]
+    // }
 }
