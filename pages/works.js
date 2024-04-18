@@ -3,6 +3,7 @@ import Section from '../components/section';
 import { WorkGridItem } from '../components/grid-item';
 
 import thumbRecurAI from '../public/images/works/recur_01.png'
+import thumbFwitter from '../public/images/works/recur_01.png'
 
 const Works = () => {
     return (
@@ -17,6 +18,9 @@ const Works = () => {
                         A Artificial Intelligence software as a service app
                     </WorkGridItem>
                 </Section>
+                    <WorkGridItem id="fwitter" thumbnail={thumbFwitter}>
+                        A fullstack clone of X (Twitter)
+                    </WorkGridItem>
                 <Section>
                 </Section>
             </SimpleGrid>
