@@ -62,7 +62,7 @@ const Page = () => {
                 </Heading>
                 <BioSection>
                     <BioYear>2004</BioYear>
-                    Born in Hangzhou (台州), China.
+                    Born in Hangzhou (杭州), China.
                 </BioSection>
                 <BioSection>
                     <BioYear>2014</BioYear>
