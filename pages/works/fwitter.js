@@ -6,10 +6,10 @@ import Layout from  '../../components/layouts/article'
 
 const Work = () => {
     return (
-        <Layout title="RecurAI">
+        <Layout title="Fwitter">
             <Container>
                 <Title>
-                    RecurAI <Badge>2023 - </Badge>
+                    Fwitter <Badge>2023 - </Badge>
                 </Title>
                 <P>
                     A versatile Generative AI platform featuring advanced capabilities in Conversation, Code, Image, Music, and Video Generation AI. With cross-platform accessibility.
@@ -18,9 +18,9 @@ const Work = () => {
                     <ListItem>
                         <Meta>Website</Meta>
                         <Link 
-                            href='https://recurai.info'
+                            href='https://fwitter.info'
                         >
-                            https://recurai.info/ 
+                            https://fwitter.info/ 
                             <ExternalLinkIcon mx="2px" />
                         </Link>
                     </ListItem>
