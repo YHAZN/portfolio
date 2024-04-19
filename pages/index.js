@@ -11,7 +11,7 @@ const Page = () => {
         <Layout>
             <Container>
                 <Box borderRadius="lg" bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')} p={3} mb={6} align="center">
-                    Hello, I&apos;m a full-stack developer based in Boston!
+                    Hello, I&apos;m a full-stack developer & student based in Boston!
                 </Box>
 
                 <Box display={{md: 'flex}}>'}}>
@@ -19,7 +19,7 @@ const Page = () => {
                         <Heading as="h2" variant="page-title">
                             Hanzhe (Jimmy) Yan
                         </Heading>
-                        <p>Digital Craftsman ( Developer / Designer / Artist / Student ) </p>
+                        <p>Digital Artisan ( Developer / Designer / Artist / Student ) </p>
                     </Box>
                     <Box 
                         flexShrink={0} 
@@ -45,7 +45,7 @@ const Page = () => {
                         Work
                     </Heading>
                     <Paragraph>
-                    Jimmy is a student and a passionate freelance full-stack developer based in Boston with a passion for building digital services & passion projects. He has a knack for all things tech-related, from planning and designing software all the way to creating solutions to real-life problems with his skill set. During his free time, he loves hanging out with his friends, playing video games, testing the latest software, and managing company operations for projects that help those in need such as TriSense. Currently, he is a full-time student at Stonehill College studying Computer Science (BA) and Computer Engineering (BS) and working on projects such as {' '}
+                    Jimmy is a student and a passionate freelance full-stack developer based in Boston with a passion for building digital services & passion projects. He has an aptitude for all things tech-related, from planning and designing software all the way to creating solutions to real-life problems with his skill set. During his free time, he loves hanging out with his friends, playing video games, testing the latest software, and managing company operations for projects that help those in need such as TriSense. Currently, he is a full-time student at Stonehill College studying Computer Science (BA) and Computer Engineering (BS) and working on projects such as {' '}
                         <NextLink href="/works/RecurAI">
                             <Link>RecurAI</Link>
                         </NextLink>.
